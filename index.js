@@ -42,6 +42,6 @@ app.get("/", function (req, res) {
 });
 
 // listen for connections
-app.listen(8000, function() {
-  console.log('Testing app listening on port 8000')
+app.listen(7000, function() {
+  console.log('Testing app listening on port 7000')
 });
